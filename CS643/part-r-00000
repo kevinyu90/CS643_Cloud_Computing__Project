@@ -1,0 +1,300 @@
+Alabama education	71
+Alabama politics: 	17
+Alabama sports: 	20
+Alabama agriculture: 	13
+Alabama dominant: education	71
+Alabama Ranking: education>sports>politics>agriculture
+Alaska education	20
+Alaska politics: 	25
+Alaska sports: 	7
+Alaska agriculture: 	13
+Alaska dominant: politics	25
+Alaska Ranking: politics>education>agriculture>sports
+Arizona education	56
+Arizona politics: 	16
+Arizona sports: 	25
+Arizona agriculture: 	3
+Arizona dominant: education	56
+Arizona Ranking: education>sports>politics>agriculture
+Arkansas education	55
+Arkansas politics: 	30
+Arkansas sports: 	13
+Arkansas agriculture: 	12
+Arkansas dominant: education	55
+Arkansas Ranking: education>politics>sports>agriculture
+California education	43
+California politics: 	26
+California sports: 	30
+California agriculture: 	17
+California dominant: education	43
+California Ranking: education>sports>politics>agriculture
+Colorado education	18
+Colorado politics: 	24
+Colorado sports: 	32
+Colorado agriculture: 	14
+Colorado dominant: sports	32
+Colorado Ranking: sports>politics>education>agriculture
+Connecticut education	26
+Connecticut politics: 	20
+Connecticut sports: 	51
+Connecticut agriculture: 	4
+Connecticut dominant: sports	51
+Connecticut Ranking: sports>education>politics>agriculture
+Delaware education	27
+Delaware politics: 	12
+Delaware sports: 	12
+Delaware agriculture: 	9
+Delaware dominant: education	27
+Delaware Ranking: education>politics>sports>agriculture
+Florida education	33
+Florida politics: 	25
+Florida sports: 	19
+Florida agriculture: 	16
+Florida dominant: education	33
+Florida Ranking: education>politics>sports>agriculture
+Georgia education	23
+Georgia politics: 	20
+Georgia sports: 	29
+Georgia agriculture: 	10
+Georgia dominant: sports	29
+Georgia Ranking: sports>education>politics>agriculture
+Hawaii education	49
+Hawaii politics: 	20
+Hawaii sports: 	8
+Hawaii agriculture: 	7
+Hawaii dominant: education	49
+Hawaii Ranking: education>politics>sports>agriculture
+Idaho education	18
+Idaho politics: 	15
+Idaho sports: 	9
+Idaho agriculture: 	5
+Idaho dominant: education	18
+Idaho Ranking: education>politics>sports>agriculture
+Illinois education	36
+Illinois politics: 	24
+Illinois sports: 	34
+Illinois agriculture: 	11
+Illinois dominant: education	36
+Illinois Ranking: education>sports>politics>agriculture
+Indiana education	14
+Indiana politics: 	11
+Indiana sports: 	22
+Indiana agriculture: 	3
+Indiana dominant: sports	22
+Indiana Ranking: sports>education>politics>agriculture
+Iowa education	38
+Iowa politics: 	16
+Iowa sports: 	16
+Iowa agriculture: 	25
+Iowa dominant: education	38
+Iowa Ranking: education>agriculture>politics>sports
+Kansas education	34
+Kansas politics: 	19
+Kansas sports: 	26
+Kansas agriculture: 	8
+Kansas dominant: education	34
+Kansas Ranking: education>sports>politics>agriculture
+Kentucky education	60
+Kentucky politics: 	24
+Kentucky sports: 	15
+Kentucky agriculture: 	6
+Kentucky dominant: education	60
+Kentucky Ranking: education>politics>sports>agriculture
+Louisiana education	26
+Louisiana politics: 	12
+Louisiana sports: 	16
+Louisiana agriculture: 	8
+Louisiana dominant: education	26
+Louisiana Ranking: education>sports>politics>agriculture
+Maine education	19
+Maine politics: 	21
+Maine sports: 	11
+Maine agriculture: 	7
+Maine dominant: politics	21
+Maine Ranking: politics>education>sports>agriculture
+Maryland education	52
+Maryland politics: 	14
+Maryland sports: 	21
+Maryland agriculture: 	5
+Maryland dominant: education	52
+Maryland Ranking: education>sports>politics>agriculture
+Massachusetts education	48
+Massachusetts politics: 	42
+Massachusetts sports: 	26
+Massachusetts agriculture: 	17
+Massachusetts dominant: education	48
+Massachusetts Ranking: education>politics>sports>agriculture
+Michigan education	35
+Michigan politics: 	22
+Michigan sports: 	15
+Michigan agriculture: 	16
+Michigan dominant: education	35
+Michigan Ranking: education>politics>agriculture>sports
+Minnesota education	25
+Minnesota politics: 	21
+Minnesota sports: 	38
+Minnesota agriculture: 	12
+Minnesota dominant: sports	38
+Minnesota Ranking: sports>education>politics>agriculture
+Mississippi education	37
+Mississippi politics: 	15
+Mississippi sports: 	8
+Mississippi agriculture: 	10
+Mississippi dominant: education	37
+Mississippi Ranking: education>politics>agriculture>sports
+Missouri education	37
+Missouri politics: 	11
+Missouri sports: 	28
+Missouri agriculture: 	6
+Missouri dominant: education	37
+Missouri Ranking: education>sports>politics>agriculture
+Montana education	55
+Montana politics: 	17
+Montana sports: 	52
+Montana agriculture: 	12
+Montana dominant: education	55
+Montana Ranking: education>sports>politics>agriculture
+Nebraska education	21
+Nebraska politics: 	20
+Nebraska sports: 	43
+Nebraska agriculture: 	14
+Nebraska dominant: sports	43
+Nebraska Ranking: sports>education>politics>agriculture
+Nevada education	27
+Nevada politics: 	30
+Nevada sports: 	15
+Nevada agriculture: 	6
+Nevada dominant: politics	30
+Nevada Ranking: politics>education>sports>agriculture
+New_Hampshire education	21
+New_Hampshire politics: 	26
+New_Hampshire sports: 	15
+New_Hampshire agriculture: 	3
+New_Hampshire dominant: politics	26
+New_Hampshire Ranking: politics>education>sports>agriculture
+New_Jersey education	41
+New_Jersey politics: 	23
+New_Jersey sports: 	62
+New_Jersey agriculture: 	6
+New_Jersey dominant: sports	62
+New_Jersey Ranking: sports>education>politics>agriculture
+New_Mexico education	26
+New_Mexico politics: 	10
+New_Mexico sports: 	10
+New_Mexico agriculture: 	4
+New_Mexico dominant: education	26
+New_Mexico Ranking: education>politics>sports>agriculture
+New_York education	28
+New_York politics: 	22
+New_York sports: 	14
+New_York agriculture: 	5
+New_York dominant: education	28
+New_York Ranking: education>politics>sports>agriculture
+North_Carolina education	31
+North_Carolina politics: 	24
+North_Carolina sports: 	26
+North_Carolina agriculture: 	14
+North_Carolina dominant: education	31
+North_Carolina Ranking: education>sports>politics>agriculture
+North_Dakota education	22
+North_Dakota politics: 	24
+North_Dakota sports: 	3
+North_Dakota agriculture: 	22
+North_Dakota dominant: politics	24
+North_Dakota Ranking: politics>agriculture>education>sports
+Ohio education	30
+Ohio politics: 	28
+Ohio sports: 	18
+Ohio agriculture: 	6
+Ohio dominant: education	30
+Ohio Ranking: education>politics>sports>agriculture
+Oklahoma education	62
+Oklahoma politics: 	21
+Oklahoma sports: 	44
+Oklahoma agriculture: 	38
+Oklahoma dominant: education	62
+Oklahoma Ranking: education>sports>agriculture>politics
+Oregon education	26
+Oregon politics: 	19
+Oregon sports: 	24
+Oregon agriculture: 	12
+Oregon dominant: education	26
+Oregon Ranking: education>sports>politics>agriculture
+Pennsylvania education	39
+Pennsylvania politics: 	16
+Pennsylvania sports: 	18
+Pennsylvania agriculture: 	16
+Pennsylvania dominant: education	39
+Pennsylvania Ranking: education>sports>politics>agriculture
+Rhode_Island education	10
+Rhode_Island politics: 	14
+Rhode_Island sports: 	14
+Rhode_Island agriculture: 	0
+Rhode_Island dominant: sports	14
+Rhode_Island Ranking: politics>sports>education>agriculture
+South_Carolina education	50
+South_Carolina politics: 	25
+South_Carolina sports: 	17
+South_Carolina agriculture: 	3
+South_Carolina dominant: education	50
+South_Carolina Ranking: education>politics>sports>agriculture
+South_Dakota education	34
+South_Dakota politics: 	22
+South_Dakota sports: 	31
+South_Dakota agriculture: 	13
+South_Dakota dominant: education	34
+South_Dakota Ranking: education>sports>politics>agriculture
+Tennessee education	22
+Tennessee politics: 	18
+Tennessee sports: 	9
+Tennessee agriculture: 	17
+Tennessee dominant: education	22
+Tennessee Ranking: education>politics>agriculture>sports
+Texas education	61
+Texas politics: 	79
+Texas sports: 	29
+Texas agriculture: 	11
+Texas dominant: politics	79
+Texas Ranking: politics>education>sports>agriculture
+Utah education	12
+Utah politics: 	19
+Utah sports: 	17
+Utah agriculture: 	3
+Utah dominant: politics	19
+Utah Ranking: politics>sports>education>agriculture
+Vermont education	37
+Vermont politics: 	28
+Vermont sports: 	29
+Vermont agriculture: 	21
+Vermont dominant: education	37
+Vermont Ranking: education>sports>politics>agriculture
+Virginia education	91
+Virginia politics: 	31
+Virginia sports: 	34
+Virginia agriculture: 	28
+Virginia dominant: education	91
+Virginia Ranking: education>sports>politics>agriculture
+Washington education	45
+Washington politics: 	13
+Washington sports: 	14
+Washington agriculture: 	11
+Washington dominant: education	45
+Washington Ranking: education>sports>politics>agriculture
+West_Virginia education	26
+West_Virginia politics: 	18
+West_Virginia sports: 	10
+West_Virginia agriculture: 	4
+West_Virginia dominant: education	26
+West_Virginia Ranking: education>politics>sports>agriculture
+Wisconsin education	19
+Wisconsin politics: 	29
+Wisconsin sports: 	24
+Wisconsin agriculture: 	18
+Wisconsin dominant: politics	29
+Wisconsin Ranking: politics>sports>education>agriculture
+Wyoming education	28
+Wyoming politics: 	16
+Wyoming sports: 	10
+Wyoming agriculture: 	5
+Wyoming dominant: education	28
+Wyoming Ranking: education>politics>sports>agriculture

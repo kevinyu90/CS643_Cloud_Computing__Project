@@ -1,0 +1,11 @@
+sports>education>politics>agriculture   Connecticut,Georgia,Indiana,Minnesota,Nebraska,New_Jersey
+politics>agriculture>education>sports   North_Dakota
+education>politics>agriculture>sports   Michigan,Mississippi,Tennessee
+education>politics>sports>agriculture   Arkansas,Delaware,Florida,Hawaii,Idaho,Kentucky,Massachusetts,New_Mexico,New_York,Ohio,South_Carolina,West_Virginia,Wyoming
+sports>politics>education>agriculture   Colorado
+politics>sports>education>agriculture   Rhode_Island,Utah,Wisconsin
+education>sports>politics>agriculture   Alabama,Arizona,California,Illinois,Kansas,Louisiana,Maryland,Missouri,Montana,North_Carolina,Oregon,Pennsylvania,South_Dakota,Vermont,Virginia,Washington
+politics>education>agriculture>sports   Alaska
+politics>education>sports>agriculture   Maine,Nevada,New_Hampshire,Texas
+education>sports>agriculture>politics   Oklahoma
+education>agriculture>politics>sports   Iowa
