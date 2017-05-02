@@ -1,2 +1,2 @@
-# CS643_Data_Mining_Project
+# CS643_Cloud_Computing__Project
 MapReduce to count states
